@@ -4,7 +4,7 @@
 
 > China-market HRM consulting: one orchestrator plus eight specialists across org planning, recruiting pipeline, talent sourcing, talent development, performance management, compensation strategy, personality assessment and **labor compliance**, gated by a unified compliance layer.
 
-Part of the [Lucewalk Experts](https://github.com/Lucewalk/lucewalk-experts) collection — expert teams, agents and skills for the WorkBuddy AI assistant platform.
+Part of the [Lucewalk Lumen](https://github.com/Lucewalk/lucewalk-lumen) collection — expert teams, agents and skills for the WorkBuddy AI assistant platform.
 
 ## What it does
 
