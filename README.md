@@ -35,7 +35,7 @@ A shared `hr-practice-library` grounds all eight specialists in the same practic
 
 | Agent | Role |
 |---|---|
-| `hrm-advisory-corps-lead` | Orchestrator — routing, SOP composition, final assembly (韩明轩) |
+| `hrm-advisory-corps-lead` | Orchestrator — routing, SOP composition, final assembly |
 | `org-planning` | Org structure & headcount |
 | `recruitment-pipeline` | Hiring funnel design & control |
 | `talent-sourcing` | Sourcing & compliant candidate outreach |
