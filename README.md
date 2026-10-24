@@ -5,7 +5,7 @@
 > China-market HRM team: one orchestrator plus eight specialists across org planning, talent sourcing, recruitment, talent, performance, compensation, compliance and SBTI assessment, gated by a unified compliance layer.
 
 
-Part of the [WorkBuddy Experts](https://github.com/Lucewalk/WorkBuddy-Experts) collection — expert teams, agents and skills for the WorkBuddy AI assistant platform.
+Part of the [WorkBuddy Experts](https://github.com/Lucewalk/lucewalk-experts) collection — expert teams, agents and skills for the WorkBuddy AI assistant platform.
 
 
 ## What it does
